@@ -1,4 +1,4 @@
-IDLE Bot is not in development
+Fork of IdleBot by [NebulaBC](https://git.neb.cx/neb/)
 --------------------------------
+Decided I'd do this because I'm bored lol
 
-version: .08-alpha
